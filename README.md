@@ -1,5 +1,5 @@
 # dineshrepo
 creating repo for Demo of GITHUB
 <br>
-Author: N Akbar Ali 
+Author: Dinesh Marothu
 Learning for Future
